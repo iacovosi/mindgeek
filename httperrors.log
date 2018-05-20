@@ -1,0 +1,4 @@
+PHP Warning:  Module 'zmq' already loaded in Unknown on line 0
+Laravel development server started: <http://192.168.1.41:80>
+[Sun May 20 11:28:02 2018] PHP Warning:  Module 'zmq' already loaded in Unknown on line 0
+[Sun May 20 11:28:02 2018] Failed to listen on 192.168.1.41:80 (reason: Address already in use)
